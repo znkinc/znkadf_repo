@@ -1,0 +1,9 @@
+{
+	"name": "znkadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a9dc15b-7268-4614-8dff-56a47bee06ac",
+		"tenantId": "ea0aed1b-5171-4b9c-8215-af95aa1650ed"
+	}
+}
